@@ -19,6 +19,7 @@ This project demonstrates how to build a personalized LLM (Language Learning Mod
     - Run the `sample.ipynb` Jupyter notebook to build a personalized LLM Real Estate Agent using a Vector Database.
     - The notebook provides an interactive interface where the potential customer can provide a query and the LLM Real Estate  
       Agent will provide the most relevant results based on the query and the vector database.
+    - Refer to `results/layout.html` for the layout of the results.
 
       ![Alternative 1](images/alternative_1.png)
 
@@ -26,6 +27,7 @@ This project demonstrates how to build a personalized LLM (Language Learning Mod
     - Run the `sample.ipynb` Jupyter notebook to build a personalized LLM Real Estate Agent using a Vector Database.
     - Extend the first alternative by amending the ```prefereces_collected``` dictionary below. This gives you the option to 
       gather specific information from the customer and provide personalized recommendations based on the customer's preferences.
+    - Refer to `results/dashboard.html` for the layout of the results.
 
       ```
       preferences_collected = {
